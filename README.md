@@ -31,12 +31,6 @@ Reservation-Management-System-JDBC-Project-/
 │── lib/
 │ └── mysql-connector.jar
 │── README.md
-
-yaml
-कोड कॉपी करें
-
----
-
 ## ⚡ How to Run the Project
 1. Clone this repository:
    ```bash
@@ -48,7 +42,7 @@ Add the MySQL JDBC Connector JAR to your project’s classpath.
 Set up your MySQL database:
 
 sql
-कोड कॉपी करें
+
 CREATE DATABASE hotel;
 USE hotel;
 
